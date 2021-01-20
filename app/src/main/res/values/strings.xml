@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TEst Application</string>
+    <string name="login">логин</string>
+    <string name="save">сохранить</string>
+    <string name="password">пароль</string>
+    <string name="fingerprint_description_pf">Подтвердите отпечаток пальца, чтобы продолжить</string>
+    <string name="description_fingerprint_icon_pf">Значок отпечатков пальцев</string>
+    <string name="fingerprint_hint_pf">Сенсорный датчик</string>
+    <string name="cancel_pf">Отменить</string>
+    <string name="check">проверка</string>
+</resources>
