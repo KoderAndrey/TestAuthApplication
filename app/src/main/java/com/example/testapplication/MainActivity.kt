@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
         }
         fragment.setAuthListener(object : PFFingerprintAuthListener {
             override fun onAuthenticated() {
-                showAlertDialog("Поздравляем!", "Вы успешно авторизировались чреез отпечаток пальца")
+                showAlertDialog("Поздравляем!", "Вы успешно авторизировались через отпечаток пальца")
                 fragment.dismiss()
             }
 

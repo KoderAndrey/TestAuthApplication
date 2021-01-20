@@ -59,7 +59,7 @@ class PFFingerprintUIHelper(
 
     override fun onAuthenticationFailed() {
         showError(
-           "Отпечаток пальца не распознан. Попробуйте еще раз"
+           "Отпечаток пальца не распознан."
         )
     }
 
